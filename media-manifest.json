@@ -1,0 +1,16 @@
+{
+  "project": "Bilingual Support",
+  "reviewed": "2026-11-10",
+  "assets": [
+    {
+      "path": "media/overview.png",
+      "bytes": 243685,
+      "sha256": "602450fc261d5e847220f4488f9a40a7ce3d19d66cf0482271e12b6dd872f4bb"
+    },
+    {
+      "path": "media/walkthrough.webm",
+      "bytes": 5367521,
+      "sha256": "f8c11dcf25f3e9ac9c8eb2bdbc9ea6864e7d3d63b14fa2ec33611eb29d99b33b"
+    }
+  ]
+}
